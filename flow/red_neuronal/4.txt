@@ -1,0 +1,1 @@
+La imagen normal se pasa de color a blanco y negro reslatando los contornos del algoritmo canny y eso pasa a la red neuronal convolucional reescalada a (288,512) para que haga la segmentacion

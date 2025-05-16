@@ -1,0 +1,1 @@
+Prediccion de la segmentacion de la red neuronal para la imagen de entrada

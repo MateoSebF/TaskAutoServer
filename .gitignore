@@ -1,0 +1,13 @@
+example_use_ocr.py
+Final.py
+model_text.py
+.env
+
+input/
+output/
+target/
+
+__pycache__/
+
+.ipynb_checkpoints/
+.vscode/

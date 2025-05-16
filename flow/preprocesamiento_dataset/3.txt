@@ -1,0 +1,6 @@
+(Se analizan las etiquetas de la segmentacion que estan en formato json y se crea una etiqueta personalizada para solo segmentacion de texto)
+(Usando el nuevo json de segmentacion se crea la imagen)
+La imagen esta segmentada con solo 1 categoria(Texto), la imagen muestra 1 (blanco) en la zona que se menciona que es texto, la imagen muestra 0(negro) en caso de que esa zona no sea texto.
+
+
+Se crea un nuevo dataset con la nueva segmentacion de 10.000 imagenes
