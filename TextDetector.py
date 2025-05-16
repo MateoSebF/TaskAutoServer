@@ -9,6 +9,8 @@ from tensorflow.keras.metrics import BinaryAccuracy, MeanIoU # type: ignore
 from sklearn.cluster import DBSCAN # type: ignore
 import pytesseract # type: ignore
 
+pytesseract.pytesseract.tesseract_cmd = "/usr/bin/tesseract"
+
 # Configure logger
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
